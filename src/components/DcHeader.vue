@@ -5,7 +5,7 @@
 </script>
 
 <template>
-    <header>
+    <header class="container">
         <figure>
             <img src="/img/dc-logo.png">
         </figure>
@@ -33,9 +33,7 @@
         display: flex;
         align-items: center;
         justify-content: space-between;
-        padding-inline: 50px;
         height: 150px;
-        border: 1px solid red;
 
         nav{
             display: flex;
@@ -44,7 +42,7 @@
             ul{
                 display: flex;
                 align-items: center;
-                gap: 15px;
+                gap: 20px;
                 list-style-type: none;
 
                 li{
