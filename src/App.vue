@@ -13,6 +13,6 @@
   <DcHeader/>
 </template>
 
-<style lang="sass">
-
+<style lang="scss">
+  @use './styles/general.scss'
 </style>
