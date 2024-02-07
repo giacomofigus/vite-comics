@@ -1,9 +1,16 @@
 <script>
+  import DcHeader from './components/DcHeader.vue'
 
+  export default{
+    components: {
+      DcHeader,
+    }
+  }
+  
 </script>
 
 <template>
-  <h1>cioa</h1>
+  <DcHeader/>
 </template>
 
 <style lang="sass">
