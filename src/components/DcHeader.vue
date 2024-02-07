@@ -7,7 +7,7 @@
 <template>
     <header>
         <nav>
-            <img src="./assets/dc-logo.png">
+            <img src="./img/dc-logo.png">
         </nav>
     </header>
 </template>
